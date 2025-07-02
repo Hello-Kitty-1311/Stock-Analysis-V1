@@ -1,0 +1,24 @@
+MODEL PREDICTIONS SUMMARY
+==================================================
+
+Fundamental Analysis: SELL (Overvalued based on assets)
+Technical Analysis: Sell
+Time Series Forecasting (ARIMA): Sell
+Linear Regression: Sell
+Logistic Regression: Sell
+Random Forest: Buy
+Support Vector Machine: Sell
+XGBoost & LightGBM: Sell
+Artificial Neural Network: Sell
+Recurrent Neural Network: Sell
+Long Short-Term Memory: Sell
+Gated Recurrent Unit: Sell
+Transformer: Sell
+SARIMA: Sell
+Prophet: Buy
+Kalman Filter: Sell
+Deep Q-Network: Buy
+Proximal Policy Optimization: Buy
+Actor-Critic: Sell
+Stacking Ensemble: Sell
+CNN-LSTM Hybrid: SELL

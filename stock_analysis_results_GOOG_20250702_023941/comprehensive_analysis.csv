@@ -1,0 +1,22 @@
+Stock_Ticker,Model_Name,Prediction,Analysis_Date,Final_Decision,BUY_Probability,SELL_Probability,HOLD_Probability
+GOOG,Fundamental Analysis,SELL (Overvalued based on assets),2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Technical Analysis,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Time Series Forecasting (ARIMA),Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Linear Regression,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Logistic Regression,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Random Forest,Buy,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Support Vector Machine,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,XGBoost & LightGBM,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Artificial Neural Network,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Recurrent Neural Network,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Long Short-Term Memory,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Gated Recurrent Unit,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Transformer,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,SARIMA,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Prophet,Buy,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Kalman Filter,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Deep Q-Network,Buy,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Proximal Policy Optimization,Buy,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Actor-Critic,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,Stacking Ensemble,Sell,2025-07-02 02:39:41,SELL,19.05,80.95,0.0
+GOOG,CNN-LSTM Hybrid,SELL,2025-07-02 02:39:41,SELL,19.05,80.95,0.0

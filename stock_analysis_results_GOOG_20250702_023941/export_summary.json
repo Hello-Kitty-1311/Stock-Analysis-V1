@@ -1,0 +1,42 @@
+{
+    "export_timestamp": "2025-07-02T02:39:41.615403",
+    "stock_ticker": "GOOG",
+    "results_directory": "stock_analysis_results_GOOG_20250702_023941",
+    "files_created": {
+        "csv": [
+            "model_predictions.csv",
+            "summary_statistics.csv",
+            "fundamental_data.csv",
+            "recent_stock_prices.csv",
+            "comprehensive_analysis.csv"
+        ],
+        "pkl": [
+            "complete_analysis.pkl",
+            "model_predictions.pkl",
+            "stock_history.pkl"
+        ],
+        "txt": [
+            "analysis_report.txt",
+            "model_predictions.txt"
+        ],
+        "html": [
+            "analysis_report.html"
+        ]
+    },
+    "total_files": 11,
+    "final_decision": "SELL",
+    "analysis_summary": {
+        "Stock Ticker": "GOOG",
+        "Analysis Date": "2025-07-02 02:39:41",
+        "Total Models": 21,
+        "BUY Predictions": 4,
+        "SELL Predictions": 17,
+        "HOLD Predictions": 0,
+        "BUY Probability (%)": 19.05,
+        "SELL Probability (%)": 80.95,
+        "HOLD Probability (%)": 0.0,
+        "Final Decision": "SELL",
+        "Current Stock Price": 176.91,
+        "Data Period": "10 Years"
+    }
+}
